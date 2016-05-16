@@ -15,6 +15,16 @@ body {
   z-index: 1;
 }
 
+.main h4 {
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+}
+
+.main p {
+
+}
+
 .ryu {
   float: left;
   width: 659px;
@@ -60,4 +70,15 @@ body {
   z-index: 10;
   top: 173px;
   left: 540px;
+}
+
+.controls {
+  float: left;
+  width: 150px;
+  height: 100px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding: 15px 15px;
+  font-size: 12px;
 }
