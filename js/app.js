@@ -31,7 +31,7 @@ $(document).ready(function() {
       500,
       function() {
         $(this).hide();
-        $(this).css("left", "540pxx");
+        $(this).css("left", "540px");
       }
     )
   })
